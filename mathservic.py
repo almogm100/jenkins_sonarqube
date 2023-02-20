@@ -1,7 +1,7 @@
 # Python program to multiply all values in the
 # list using traversal
 
-#!/usr/bin/python3
+
 
 def multiplyList(myList):
 
