@@ -1,5 +1,0 @@
-sonar.host.url=http://localhost:9000
-sonar.projectKey=test2
-sonar.sources=./
-sonar.language=python
-sonar.login=squ_67c7240a5aa13daf384ae1138c47620281471569
